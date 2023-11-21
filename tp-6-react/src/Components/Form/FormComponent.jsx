@@ -72,7 +72,7 @@ const Formulario = () => {
             return;
         }
         else {
-            alert(`Datos enviados:\nNombre: ${nombre}\nApellido: ${apellido}\nEmail: ${email}\nTeléfono: ${telefono}`);
+            alert(`Su cuenta a sido creada con los siguientes datos:\nNombre: ${nombre}\nApellido: ${apellido}\nEmail: ${email}\nTeléfono: ${telefono}`);
         }
     };
 
